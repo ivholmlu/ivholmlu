@@ -2,3 +2,5 @@
 
 
 Data Science - 4th-year at NMBU
+
+Currently on exchange at Massey University Auckland
